@@ -9,5 +9,5 @@ package pne;
  * @author Student
  */
 public class sosgaysilolees {
-    
+     
 }
